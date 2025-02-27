@@ -29,7 +29,7 @@ function RewardScreen() {
             </p>
 
             {/* Take ESA Button */}
-            <button className="bg-darkBlue text-white px-6 py-2 mt-4 rounded-md w-full hover:bg-blue-700 transition" onClick={()=>navigate("/")}>
+            <button className="bg-darkBlue text-white px-6 py-2 mt-4 rounded-md w-full hover:bg-blue-700 transition" onClick={(event)=>{event.preventDefault();navigate("/")}}>
               Take ESA
             </button>
           </div>
