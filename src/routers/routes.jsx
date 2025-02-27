@@ -1,4 +1,4 @@
-import Education from "../components/education"
+import Education from "../components/Education"
 import RewardScreen from "../components/RewardScreen"
 
 const routes = [
