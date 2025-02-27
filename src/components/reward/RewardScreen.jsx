@@ -1,5 +1,5 @@
-import wowImg from '../assets/wow-img.png';
-import gift from '../assets/gift.png';
+import wowImg from '../../assets/wow-img.png';
+import gift from '../../assets/gift.png';
 import { useNavigate } from 'react-router-dom';
 
 function RewardScreen() {

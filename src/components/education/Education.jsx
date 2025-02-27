@@ -1,4 +1,4 @@
-import gift from "../assets/gift.png";
+import gift from "../../assets/gift.png";
 import { useState } from "react";
 import { useNavigate } from "react-router-dom";
 
