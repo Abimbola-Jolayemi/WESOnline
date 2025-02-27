@@ -1,5 +1,5 @@
-import Education from "../src/components/education/Education";
-import RewardScreen from "../src/components/reward/RewardScreen";
+import Education from "../components/education/Education";
+import RewardScreen from "../components/reward/RewardScreen";
 
 const routes = [
     {
