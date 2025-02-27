@@ -116,7 +116,7 @@ function Education() {
           {/* Buttons */}
           <div className="flex flex-row justify-between mt-4 space-y-3 sm:space-y-0">
   <button className="font-bold text-black1 text-base">Skip For Now</button>
-  <button className="bg-darkBlue text-white font-bold px-4 py-2 rounded-lg w-1/2 sm:w-2/3 md:w-1/3" onClick={()=> navigate("/rewards")}>
+  <button className="bg-darkBlue text-white font-bold px-4 py-2 rounded-lg w-1/2 sm:w-2/3 md:w-1/3" onClick={()=> navigate('/rewards')}>
     Continue
 </button>
 
